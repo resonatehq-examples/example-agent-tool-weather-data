@@ -53,9 +53,9 @@ If you go to Claude's settings, there is a Developers tab which should provide a
       "command": "/opt/homebrew/bin/uv", // Path to where uv is
       "args": [
         "--directory",
-        "ABSOLUTE/PATH/TO/TOOL/agent-tool-weather-forecast",
+        "ABSOLUTE/PATH/TO/TOOL/agent-tool-weather-data",
         "run",
-        "weather.py"
+        "proxy.py"
       ]
     }
   }
