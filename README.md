@@ -1,4 +1,4 @@
-# Weather forecast AI Agent tool | Resonate example application
+# Weather data AI Agent tool | Resonate example application
 
 This example application showcases Resonate's ability to convert synchronous MCP Server tools into Durable Asynchronous tools.
 
