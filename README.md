@@ -80,7 +80,7 @@ In theory Resonate should be able to work with an MCP Server that runs on a stdi
 In the mean time you can run a proxy that coverts a stdio transport to talk with an MCP server running streamable-http transport.
 
 ```shell
-uv run proxy.py`
+uv run proxy.py
 ```
 
 ## Run the weather data MCP server
