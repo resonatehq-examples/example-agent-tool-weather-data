@@ -1,6 +1,5 @@
 from resonate import Resonate
 from fastmcp import FastMCP
-from datetime import datetime
 import requests
 import calendar
 import json
