@@ -19,3 +19,11 @@ TODO
   }
 }
 ```
+
+## Run the proxy
+
+`uv run proxy.py`
+
+## Run the weather data MCP server
+
+`uv run weather_data.py`
